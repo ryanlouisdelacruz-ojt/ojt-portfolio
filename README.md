@@ -53,3 +53,5 @@ ojt-portfolio/
 - GitHub: https://github.com/ryanlouisdelacruz-ojt
 
 © 2026 Ryan Louis Dela Cruz. All Rights Reserved.
+
+:)
