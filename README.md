@@ -1,17 +1,17 @@
-OJT Portfolio
+# OJT Portfolio
 
 Individual web portfolio for On-the-Job Training (OJT) applications.
-Built for IIDD 2 Final Course Project, Bulacan State University, College of Industrial Technology.
+Built for **IIDD 2 Final Course Project**, Bulacan State University, College of Industrial Technology.
 
-Live site: https://ryanlouisdelacruz-ojt.github.io/ojt-portfolio/
+**Live site:** https://ryanlouisdelacruz-ojt.github.io/ojt-portfolio/
 
-About
+## About
 
-Hi, I'm Ryan Louis Dela Cruz, a student at Bulacan State University – College of Industrial Technology, looking for an OJT placement as a UI/UX Designer Intern.
+Hi, I'm **Ryan Louis Dela Cruz**, a student at Bulacan State University – College of Industrial Technology, looking for an OJT placement as a **Junior Front-End Web Developer Intern**.
 
 This portfolio shows my technical profile, skills, featured projects, and ways to contact me.
 
-Features
+## Features
 
 - Responsive layout for desktop, tablet and mobile
 - Sections: Hero, About, Skills, Projects, Contact, Footer
@@ -19,7 +19,7 @@ Features
 - Pop-up back-to-top button
 - Visible grid toggle, inspired by the Awwwards "Grids" site
 
-Built with
+## Built with
 
 - HTML5
 - CSS3 (Flexbox and Grid)
@@ -27,7 +27,7 @@ Built with
 - AI-assisted development (vibe coding), then manually reviewed and refactored
 - Hosted on GitHub Pages
 
-Project structure
+## Project structure
 
 ```
 ojt-portfolio/
@@ -41,7 +41,7 @@ ojt-portfolio/
 └── live_deployment_url.txt
 ```
 
-Run locally
+## Run locally
 
 1. Download or clone this repository.
 2. Open `index.html` in a browser.
